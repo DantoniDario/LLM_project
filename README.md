@@ -1,6 +1,6 @@
 # Description
 
-Below are my projects using common LLM APIs like HuggingFace, OpenAI, Gradio (for the UI chatbot) and others. For project number 2, I used Google Colab to run the code on GPUs.
+Below are my quick projects using common LLM APIs like HuggingFace, OpenAI, Gradio (for the UI chatbot) and others. For project number 2, I used Google Colab to run the code on GPUs.
 
 #### Project 1: MultiModalChatbot.ipynb
 
