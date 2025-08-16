@@ -12,3 +12,7 @@ In this code, I created a Multi Modal chatbot UI:
 #### Project 2: DatasetGenerator.ipynb
 
 In this code, I created a chatbot specialized in dataset generation where the user can ask for any new dataset in whatever format she/he wants.
+
+#### Project 3: FedererRAG.ipynb
+
+In this code, I created a chatbot connected to Federer's biography using RAG method.
